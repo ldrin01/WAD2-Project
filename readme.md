@@ -7,34 +7,53 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+# My TODA 
+ A website made from laravel
+ This website is use to store all the identification of every tricycle units of an specific user specialy tricycle operators that has hundreds or thousands of tricycle units.
+ 
+## Home Page
+  ![Home page](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen1.PNG)
+  
+  in the bottom part of the home page you can see two anchors wherein you will be redirect to the specific page that correspond to the words for example you click the "ABOUT US" it will redirect you to About Us page that will explaine how the webpage work and what it is for.but if you click "HELP" it will show you instructions on how to use the website.
+  ![About Us](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen2.PNG)
+  ![Help](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen3.PNG)
+  ![Instruction](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen4.PNG)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Register
+ In this website there are restriction especialy if you are guest.
+  • you cannot acces the user home page that will show all the units of the specific user. 
+  • you are not allowed delete or add nor update his/her units data.
+  • you cannot do anything aside from viewing the about us and help. 
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+you can also register infact the instructions are on the help page.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
-
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## Login 
+  For you to access all the data of your tricycle units you must log in. 
+  This page is using the dedault login and register of laravel 5.4.
+  
+  ![Login](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen5.PNG)
+  
+## User Home Page
+  After loging in you are now allowed to access the data of all your units ,here you can do what ever you want with the unit's data add another unit, update the units data,delete the specific unit that is no longer existing.
+  
+   ![User Home](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen6.PNG)
+   
+## Add new unit
+  just like typical way of adding new unit fill up every thing then save.
+  after that you will be redirected to user's home page and there you can see the new unit added to the old ones.
+  
+   ![Add unit](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen7.PNG)
+   ![save new unit](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen8.PNG)
+   
+## Update
+  if you have some mistake with data you input whene you created the new unit ,there is update botton that allows you to update the data you entered on the existing unit.
+  
+## Delete
+  if the unit is no longer existing you can delete it.
+  
+  ![save new unit](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen9.PNG)
+   
+  
+  
+  
