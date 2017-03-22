@@ -44,7 +44,7 @@ you can also register infact the instructions are on the help page.
   after that you will be redirected to user's home page and there you can see the new unit added to the old ones.
   
    ![Add unit](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen7.PNG)
-   ![save new unit](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen8.PNG)
+   ![save new unit](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen8.png)
    
 ## Update
   if you have some mistake with data you input whene you created the new unit ,there is update botton that allows you to update the data you entered on the existing unit.
@@ -52,7 +52,7 @@ you can also register infact the instructions are on the help page.
 ## Delete
   if the unit is no longer existing you can delete it.
   
-  ![save new unit](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen9.PNG)
+  ![save new unit](https://github.com/trunks07/WAD2-Project/blob/master/Project%20Screen%20Shot/screen9.png)
    
   
   
